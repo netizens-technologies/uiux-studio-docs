@@ -1,0 +1,116 @@
+/* INTER FONTS CSS START FROM HERE */
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Thin.woff2') format('woff2'),url('inter/Inter-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-ExtraLight.woff2') format('woff2'),url('inter/Inter-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Light.woff') format('woff2'),url('inter/Inter-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Regular.woff2') format('woff2'),url('inter/Inter-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Medium.woff2') format('woff2'),url('inter/Inter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-SemiBold.woff2') format('woff2'),url('inter/Inter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Bold.woff2') format('woff2'),url('inter/Inter-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-ExtraBold.woff2') format('woff2'),url('inter/Inter-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('inter/Inter-Black.woff2') format('woff2'),url('inter/Inter-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+/* INTER FONTS CSS END'S FROM HERE */
+
+/* GILROY FONTS CSS START FROM HERE */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-regular.ttf') format('ttf');
+    src: url('gilroy/gilroy-regular.woff2') format('woff2'),url('gilroy/gilroy-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-medium.ttf') format('ttf');
+    src: url('gilroy/gilroy-medium.woff2') format('woff2'),url('gilroy/gilroy-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-semi-bold.ttf') format('ttf');
+    src: url('gilroy/gilroy-semi-bold.woff2') format('woff2'),url('gilroy/gilroy-semi-bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-bold.ttf') format('ttf');
+    src: url('gilroy/gilroy-bold.woff2') format('woff2'),url('gilroy/gilroy-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-extra-bold.ttf') format('ttf');
+    src: url('gilroy/gilroy-extra-bold.woff2') format('woff2'),url('gilroy/gilroy-extra-bold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('gilroy/gilroy-black.ttf') format('ttf');
+    src: url('gilroy/gilroy-black.woff2') format('woff2'),url('gilroy/gilroy-black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+/* GILROY FONTS CSS END'S FROM HERE */
